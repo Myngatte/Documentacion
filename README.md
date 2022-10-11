@@ -1,6 +1,7 @@
 # Documentacion 
 
-Básic
+## Lo básico de Markdown
+
 #=encabezado ,cantidad de #= nivel de encabezado ej:
 # encabezado
 ###### encabezado 2
@@ -64,4 +65,27 @@ Uso: git push
 
 # *Documentación básica de html*
 
+Formato usual de html que usamos : comenzar proyecto con “html:5”
+<html lang="">= lenguaje
+
+ <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>”titulo”</title> (Titulo)
+
+ <link rel="shortcut icon" href="img/Screenshot_3.png" type="image/x-icon"
+Este comando se hace escribiendo “link:favicon”, este cambia el icono de la página web
+
+<h1>” ”</h1>,<h2>” “</h2>,<h3>” “</h3>...... 
+Se escriben subtítulos, de números enteros, siendo h1 la letra más grande, y cuando más grande el número más pequeño será el texto de dentro, sirve para poder diferenciar y priorizar temas.
+
+<img src="img/imagen.png" alt="">
+Para poner imagenes, src=se pone el link de la imagen, es decir su ubicación, “img/” se refiere a la carpeta donde esta, se debe escribir dependiendo de su ubicación de manera recursiva, después se escribe el nombre de la imagen
+“alt=” es un alternativo en caso de que la imagen falle.
+
+Para escribir texto poner dentro de <p></p>
+
+Definir formato de pagina con <head></head> y <body></body>
+
+“head” usado para título y encabezado de página(lo que sería equivalente a la presentación) y “body” usado para el resto(contenido, fotos, links, etc), como la división en una redacción.
 
