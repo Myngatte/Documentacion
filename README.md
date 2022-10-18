@@ -61,7 +61,7 @@ Uso: git commit -m “(texto)”
 “git push”:
 Añadir de forma definitiva lo que querías subir en “git add”
 
-Uso: git push
+Uso: git push origin(rama repositorio local) main(rama remoto)
 
 # *Documentación básica de html*
 
