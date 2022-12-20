@@ -137,7 +137,7 @@ Tal cual como su traducción al español, hacen referencia a la anchura y la alt
 
 A la hora de poner coloreado, o color a por ejemplo: el "background", no se pone "color-", se pone "solid-" y ya te saldrán las opciones de color existentes.
 
-Códigos importantes de colores:
+Códigos de colores como ejemplo:
 
 | Color name | rgb | Decimal |
 |---------- |:------------:|--------:|
