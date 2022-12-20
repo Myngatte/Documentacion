@@ -132,3 +132,16 @@ Para añadir o editar bordes
 ### ``Height/Width``
 
 Tal cual como su traducción al español, hacen referencia a la anchura y la altura
+
+##### Extra
+
+A la hora de poner coloreado, o color a por ejemplo: el "background", no se pone "color-", se pone "solid-" y ya te saldrán las opciones de color existentes.
+
+Códigos importantes de colores:
+
+| Color name | rgb | Decimal |
+|---------- |:------------:|--------:|
+| Blanco | #FFFFFF | 255,255,255 |
+| Granate | #800000 | 128,0,0 |
+| Rojo | #FF0000 | 255,0,0 |
+| Púrpura | #800080 | 128,0,128 |
